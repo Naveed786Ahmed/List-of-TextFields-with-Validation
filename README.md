@@ -5,6 +5,9 @@ Purpose:
 This task implements a form screen with multiple text fields, each having specific validation rules to ensure data integrity.
 
 Requirements
-Dependencies: None additional (uses Flutter core libraries).
-Flutter SDK: Ensure Flutter is installed.
+<ul>
+  <li>Dependencies: None additional (uses Flutter core libraries).</li>
+  <li>Flutter SDK: Ensure Flutter is installed.</li>
+</ul>
+
 </p>
